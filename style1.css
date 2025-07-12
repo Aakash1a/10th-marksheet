@@ -1,0 +1,46 @@
+ table,tr,td,TD,TR,#heading,.NAME{
+    border: 2px solid black;
+    border-collapse: collapse;
+    
+ }
+ .class,.CLASS2{
+    background-color: #1e95b3;
+    font-weight: Calibri, 'Trebuchet MS', sans-serif;
+    padding: 1px;
+    font-weight: 400;
+ }
+ body{
+   background-color: rgb(252, 252, 240);
+ }
+ .CLASS2{ margin-COLOR: #1e95b3;
+   
+ }
+ .CLASS3{
+   font-synthesis-position: CENTER;
+
+ }
+ .href,.href1,.href2,.href3{
+ 
+  color: white;
+ }
+ nav{
+  font-size: large;
+  background-color: rgba(245, 179, 82, 0.568) ;
+  font-weight: 900;
+  
+ }
+ 
+ .href:hover{
+  color: rgb(85, 199, 155);
+ }
+ .href1:hover {
+  color:#44b46f
+ }
+ .href2:hover{
+  color: rgb(120, 224, 101);
+ }
+ .href3:hover{
+  color: rgb(161, 204, 91);
+ }
+ 
+ 
